@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+KEGG_PATHWAY	hsa04024:cAMP signaling pathway	4	8.16326530612245	0.025054611135025013	NFKBIA, POPDC2, GRIN3B, VIPR2	26	226	8840	6.017699115044248	0.9303485111083518	1.0	1.0

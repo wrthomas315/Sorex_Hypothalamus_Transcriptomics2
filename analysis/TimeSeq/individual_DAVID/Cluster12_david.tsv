@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+KEGG_PATHWAY	hsa00250:Alanine, aspartate and glutamate metabolism	2	4.444444444444445	0.09588142669149209	GPT2, NAT8L	25	37	8840	19.113513513513514	0.9982533751452185	1.0	1.0
