@@ -1,5 +1,5 @@
 # Dehnels_Seasonal_RNAseq
-Scripts and code to reproduce RNAseq analysis for looking at selection in gene expression for the shrew hypothalamus, and comparing these results to seasonal changes in relation to Dehnel's phenomenon.
+Scripts and code to reproduce RNAseq analysis for looking at selection in gene expression for the shrew hypothalamus, and comparing these results to seasonal changes in relation to Dehnel's phenomenon. Code associated with Thomas et al. 2025 eLife manuscript eLife2025;13:RP100788 DOI: https://doi.org/10.7554/eLife.100788.3
 
 ###Goals and strategy
 
